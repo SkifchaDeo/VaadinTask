@@ -1,0 +1,1 @@
+Реализовал CRUD с использованием Vaading и Spring (Core+Data и из личного интереса добавил Security), бд на H2.
